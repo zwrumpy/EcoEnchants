@@ -11,8 +11,8 @@ conflicts: [ ]
 rarity: rare
 max-level: 2
 
-tradeable: true
-discoverable: true
+tradeable: false
+discoverable: false
 enchantable: true
 
 effects:

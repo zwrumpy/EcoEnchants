@@ -10,8 +10,8 @@ conflicts: [ ]
 rarity: common
 max-level: 1
 
-tradeable: true
-discoverable: true
+tradeable: false
+discoverable: false
 enchantable: true
 
 conditions: [ ]

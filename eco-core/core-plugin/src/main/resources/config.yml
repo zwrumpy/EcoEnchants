@@ -13,21 +13,21 @@ enchanting-table:
 
 # Options for obtaining custom enchants from villagers
 villager:
-  enabled: true # If custom enchantments should be available from villagers
+  enabled: false # If custom enchantments should be available from villagers
   pass-through-chance: 25 # The chance to leave the book as-is with a vanilla/no enchantment applied.
   book-multiplier: 0.14 # Multiplier applied to the chance of getting an enchantment on a book (to balance enchant numbers)
   reduction: 5 # The chance to get each subsequent enchantment is divided by this number, e.g. 2nd enchant is 5x less likely than 1st, 3rd is 5x less likely again, etc
 
 # Options for obtaining custom enchants in natural loot
 loot:
-  enabled: true # If custom enchantments should be available from natural loot
+  enabled: false # If custom enchantments should be available from natural loot
   book-multiplier: 0.5 # Multiplier applied to the chance of getting an enchantment on a book (to balance enchant numbers)
   reduction: 7.5 # The chance to get each subsequent enchantment is divided by this number, e.g. 2nd enchant is 7.5x less likely than 1st, 3rd is 7.5x less likely again, etc
 
 # Options for merging items in an anvil
 anvil:
   cost-exponent: 0.95 # The exponent for each enchant level to prevent constant "Too Expensive!" problems
-  enchant-limit: -1 # The limit for the amount of enchantments on an item (-1 to disable)
+  enchant-limit: 8 # The limit for the amount of enchantments on an item (-1 to disable)
   use-rework-penalty: true # If the rework penalty should be applied
 
 # Options for how enchantments are displayed on items

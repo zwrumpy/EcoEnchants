@@ -8,8 +8,8 @@ conflicts: [ ]
 rarity: legendary
 max-level: 1
 
-tradeable: true
-discoverable: true
+tradeable: false
+discoverable: false
 enchantable: false
 
 conditions: [ ]
