@@ -26,7 +26,7 @@ effects:
         args:
           effect: slow_falling
           level: 1
-          duration: 10
+          duration: 5
           delay: "18 * %level%"
           apply_to_player: true
 

@@ -7,7 +7,7 @@ targets:
   - boots
 conflicts: [ ]
 rarity: special
-max-level: 4
+max-level: 3
 
 tradeable: false
 discoverable: false

@@ -21,7 +21,7 @@ effects:
       chance: "%level% * 2"
       effect: invisibility
       level: 2
-      duration: "10 + floor(%level% * 5)"
+      duration: "5 + floor(%level% * 5)"
       apply-to-player: true
     triggers:
       - take_entity_damage

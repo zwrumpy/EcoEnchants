@@ -6,6 +6,8 @@ targets:
   - pickaxe
 conflicts:
   - silk_touch
+  - fortune
+  - blast_mining
 rarity: legendary
 max-level: 1
 

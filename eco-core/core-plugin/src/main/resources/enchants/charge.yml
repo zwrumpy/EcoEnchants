@@ -17,7 +17,7 @@ effects:
   - effects:
       - id: pull_to_location
         args:
-          velocity: "1.5 * %level%"
+          velocity: "1.25 * %level%"
 
       - id: play_sound
         args:

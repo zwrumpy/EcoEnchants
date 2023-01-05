@@ -7,7 +7,7 @@ targets:
   - chestplate
 conflicts: [ ]
 rarity: rare
-max-level: 4
+max-level: 3
 
 tradeable: false
 discoverable: false
